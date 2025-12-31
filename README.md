@@ -2,6 +2,10 @@ This is a somewhat rudimentary, vaguely tested editor for nokteholda's ice highw
 
 In addition to tools to edit the lines and stations, it also features a preview map to see what you are doing, and to edit the path of the lines.
 
+How to use:
+- step 1: launch it, get highway map json, drag it onto the editor.
+- step 2: good luck (it's fairly intuitive)
+
 Controls:
 (When editing the path of a line)
 - Left click to select, or hold to pan view.
