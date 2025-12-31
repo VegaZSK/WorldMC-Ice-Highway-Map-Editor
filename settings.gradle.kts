@@ -1,0 +1,1 @@
+rootProject.name = "IHw-Map-Editor"
