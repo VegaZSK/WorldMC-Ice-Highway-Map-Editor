@@ -1,9 +1,11 @@
 This is a somewhat rudimentary, vaguely tested editor for nokteholda's ice highway map (https://nokteholda.github.io/WorldMC-Ice-Highways-Map/).
 
+This editor also works for xilef's EarthMC ice highway map (https://xilef2211.github.io/ice-highways-map/) because both use xilef's original JSON system.
+
 In addition to tools to edit the lines and stations, it also features a preview map to see what you are doing, and to edit the path of the lines.
 
 How to use:
-- step 1: launch it, get highway map json, drag it onto the editor.
+- step 1: launch it, get highway map json, drag it onto the editor. For EarthMC, use highways.json not highways-annotated.json.
 - step 2: good luck (it's fairly intuitive)
 
 Controls:
